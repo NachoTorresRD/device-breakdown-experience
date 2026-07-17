@@ -2,6 +2,9 @@
 
 [![Live experience](https://img.shields.io/badge/Live-device.ntdesweb.dev-d8ff3e?style=for-the-badge&labelColor=07090a)](https://device.ntdesweb.dev/)
 
+- **Live experience:** https://device.ntdesweb.dev/
+- **Explore more NTDESWEB experiments:** https://fx.ntdesweb.dev/
+
 A cinematic, scroll-directed WebGL teardown of a procedural premium smartphone. The experience moves through glass, display, battery, camera, logic board and silicon before resolving every layer back into one object.
 
 ![Device Breakdown Experience preview](assets/preview.gif)
