@@ -5,14 +5,14 @@
 - **Live experience:** https://device.ntdesweb.dev/
 - **Explore more NTDESWEB experiments:** https://fx.ntdesweb.dev/
 
-A cinematic, scroll-directed WebGL teardown of a procedural premium smartphone. The experience moves through glass, display, battery, camera, logic board and silicon before resolving every layer back into one object.
+A cinematic, scroll-directed WebGL teardown of a procedurally modeled iPhone 17 Pro Max in Cosmic Orange. The experience moves through Ceramic Shield, display, battery, Pro camera array, logic board and silicon before resolving every layer back into one object.
 
 ![Device Breakdown Experience preview](assets/preview.gif)
 
 ## Experience design
 
 - Seven reversible narrative chapters driven by scroll position.
-- Procedural smartphone geometry—no downloaded 3D model or texture payload.
+- Procedural iPhone 17 Pro Max-inspired geometry—no downloaded 3D model or texture payload.
 - Physical layer separation with independent drift, focus and reassembly states.
 - Responsive camera choreography, parallax, dynamic lighting, glow, fog and glass.
 - Optional synthesized interface sound using the Web Audio API.
